@@ -1,0 +1,14 @@
+NO ./images/gold_wood.xpm
+SO ./images/wall2.xpm
+WE ./images/terra2.xpm
+EA ./images/corinthians2.xpm
+
+F 220,100,189
+C 225,30,154
+
+   1
+  101
+ 10001
+100N001
+1000001
+1111111
